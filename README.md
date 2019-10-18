@@ -19,10 +19,4 @@ https://www.bibox.cc
 * [错误码](https://github.com/BiboxEurope/API_Docs/wiki/WS_error_code)
 * [示例](https://github.com/BiboxEurope/WS-API-demos)
 
-### REST API
-* [API Reference](https://github.com/BiboxEurope/API_Docs/wiki/REST_API_Reference_C)
-
-### WebSocket API
-* [API Reference](https://github.com/BiboxEurope/API_Docs/wiki/WS_API_Reference_C)
-
 English Documents <a href='https://github.com/BiboxEurope/API_Docs_en'>click here</a>
