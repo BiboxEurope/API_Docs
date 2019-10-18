@@ -2,7 +2,7 @@
 Bibox欧洲站交易所提供REST API 和 WebSocket API，便于投资者查看行情、快速交易。
 
 ### Bibox欧洲站交易所
-https://www.bibox.com
+https://www.bibox.cc
 
 ### REST API
 * [REST API简介](https://github.com/BiboxEurope/API_Docs/wiki/REST_introduction)
